@@ -1,0 +1,25 @@
+{
+    "id": "7464EDA2",
+    "path": "~/Desktop/R_folder/test/HelloWorld.Rmd",
+    "project_path": "HelloWorld.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1666233981598.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "9,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1666243126,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1666243126319,
+    "read_only": false,
+    "read_only_alternatives": []
+}
